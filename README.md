@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonLee0223&show_icons=true&theme=radical)
 <!--
 **JasonLee0223/JasonLee0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
